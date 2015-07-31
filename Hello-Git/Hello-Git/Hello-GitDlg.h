@@ -18,6 +18,7 @@ public:
 	protected:
 	virtual void DoDataExchange(CDataExchange* pDX);	// DDX/DDV support
 
+	CString m_str;
 
 // Implementation
 protected:

@@ -98,6 +98,8 @@ BOOL CHelloGitDlg::OnInitDialog()
 
 	// TODO: Add extra initialization here
 
+	m_str = L"hello ";
+
 	return TRUE;  // return TRUE  unless you set the focus to a control
 }
 
